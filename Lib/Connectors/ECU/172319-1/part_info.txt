@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=172319-1
+PartCategory=Connector
+PackageCategory=Other
+PinCount=54
+Version=1.4
+Released=2020-06-21 10:34:39
+Downloaded=2020-06-22 14:48:52
+3D=Y

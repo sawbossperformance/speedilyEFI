@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '172319_1'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "172319-1" (!) = "", "1723191", "Other", "172319-1", "", "N/A", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/172319-1?qs=xLhQT1EE4V99EE%2FLqm10cw%3D%3D", "CONN HEADER R/A 52POS", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=172319&DocType=Customer+Drawing&DocLang=Japanese", "22.4 mm"
+END_PART
+
+END.
