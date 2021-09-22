@@ -1,0 +1,19 @@
+.174917-6 :1 ;0.40/0.70 Hybrid Housing,cap,r/a,DR,48w
+"1749176"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=15 16=16 17=17 18=18 19=19 20=20 21=21 22=22 23=23 24=24 25=25 26=26 27=27 28=28 29=29 30=30 31=31 32=32 33=33 34=34 35=35 36=36 37=37 38=38 39=39 40=40 41=41 42=42 43=43 44=44 45=45 46=46 47=47 48=48 49=MH1 50=MH2 51=MH3
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="16" 17="17" 18="18" 19="19" 20="20" 21="21" 22="22" 23="23" 24="24" 25="25" 26="26" 27="27" 28="28" 29="29" 30="30" 31="31" 32="32" 33="33" 34="34" 35="35" 36="36" 37="37" 38="38" 39="39" 40="40" 41="41" 42="42" 43="43" 44="44" 45="45" 46="46" 47="47" 48="48" 49="MH1" 50="MH2" 51="MH3"
+*MXP 51
+*DFN 174917-6
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (174917-6)
+~!Arrow Part Number (174917-6)
+~!Link Arrow Price/Stock (http://www.arrow.com/en/products/174917-6/te-connectivity)
+~!Mouser Part Number (571-174917-6)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/174917-6?qs=7lUI3dtMLl2Jl4sNx8kZBg%3D%3D)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F174917%7FM8%7Fpdf%7FJapanese%7FJPN_CD_174917_M8.pdf%7F174917-6)
+~!Height (22.2mm)
+~!3D_Model (174917-6)
+"174917-6"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 35.1!U 36.1!U 37.1!U 38.1!U 39.1!U 40.1!U 41.1!U 42.1!U 43.1!U 44.1!U 45.1!U 46.1!U 47.1!U 48.1!U 49.1!U 50.1!U 51.1!U 

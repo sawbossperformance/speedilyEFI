@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=174917-6
+PartCategory=Connector
+PackageCategory=Other
+PinCount=51
+Version=2.1
+Released=2018-12-30 22:51:44
+Downloaded=2020-07-12 03:28:12
+3D=Y

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '174917_6'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "174917-6" (!) = "", "1749176", "Other", "174917-6", "http://www.arrow.com/en/products/174917-6/te-connectivity", "571-174917-6", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/174917-6?qs=7lUI3dtMLl2Jl4sNx8kZBg%3D%3D", "0.40/0.70 Hybrid Housing,cap,r/a,DR,48w", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F174917%7FM8%7Fpdf%7FJapanese%7FJPN_CD_174917_M8.pdf%7F174917-6", "22.2 mm"
+END_PART
+
+END.
